@@ -18,7 +18,7 @@ It uses Machine Learning algorithms to estimate trip costs accurately, helping u
 The dataset contains the following features:
 
 1. Distance_km
-2. Transport ( Bus, Flight, Train, )
+2. Transport ( Bus, Train, Flight  )
 3. Days
 4. People
 5. Hotel_rating
