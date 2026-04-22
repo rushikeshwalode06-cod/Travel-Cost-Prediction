@@ -29,6 +29,7 @@ The dataset contains the following features:
 ## 🧠 Machine Learning Model
 
 Algorithm Used:  Linear Regression
+
 ![ml](https://github.com/rushikeshwalode06-cod/Travel-Cost-Prediction/blob/main/Travel%20Cost%20Graph.png?raw=true)
 
 1. Data Preprocessing 
