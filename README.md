@@ -30,7 +30,7 @@ Algorithm Used:  Linear Regression
 1. Data Preprocessing 
 2. Handling missing values
 3. Encoding categorical data
-4. 4. Model Evaluation:  R² Score
+4. Model Evaluation:  R² Score
   
 ## 🛠️ Tech Stack
 1. Python 🐍
