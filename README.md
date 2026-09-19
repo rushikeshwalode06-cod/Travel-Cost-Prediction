@@ -1,4 +1,4 @@
-# Travel-Cost-Prediction
+# ✈️ Travel-Cost-Prediction
 This project predicts travel expenses based on factors like Distance_km , transport , days, people, hotel_rating . It uses machine learning algorithms to estimate trip costs accurately, helping users plan budgets efficiently and make smarter travel decisions.
 
 # ✈️ Travel Cost Prediction using Machine Learning
@@ -10,10 +10,10 @@ It uses Machine Learning algorithms to estimate trip costs accurately, helping u
 ![ML](https://github.com/rushikeshwalode06-cod/Travel-Cost-Prediction/blob/main/Travel%20Cost%20prediction.png?raw=true)
 
 ## 🚀 Features
-1. Predict travel cost instantly
-2. User-friendly input parameters
-3. Supports multiple travel factors
-4. Accurate ML model predictions
+* ✈️  Predict travel cost instantly
+* 🎛️  User-friendly input parameters
+* 🌍  Supports multiple travel factors
+* 🤖  Accurate ML model predictions
 
 ## 📊 Dataset
 
@@ -28,38 +28,40 @@ The dataset contains the following features:
 
 ## 🧠 Machine Learning Model
 
-Algorithm Used:  Linear Regression
+**Algorithm Used:  Linear Regression**
 
 ![ml](https://github.com/rushikeshwalode06-cod/Travel-Cost-Prediction/blob/main/Travel%20Cost%20Graph.png?raw=true)
 
-1. Data Preprocessing 
-2. Handling missing values
-3. Encoding categorical data
-4. Model Evaluation:  R² Score
+## Workflow
+
+* 🧹 Data Preprocessing
+* 🔧 Handling Missing Values
+* 🔤 Encoding Categorical Data
+* 📊 Model Evaluation: R² Score
   
 ## 🛠️ Tech Stack
-1. Python 🐍
-2. Pandas & NumPy
-3. Scikit-learn
-4. Matplotlib / Seaborn
-5 Jupyter Notebook
+* 🐍 Python
+* 🐼 Pandas & NumPy
+* 🤖 Scikit-learn
+* 📊 Matplotlib / Seaborn
+* 📓 Jupyter Notebook
 
-##📈 Example Input
-Distance_km: 500
-Transport: Flight(3)
-Days: 2
-People: 2
-Hotel_rating: 3
+## 📈 Example Input
+* Distance_km: 500
+* Transport: Flight(3)
+* Days: 2
+* People: 2
+* Hotel_rating: 3
 
-Output:
+### Output:
 👉 Estimated Travel Cost: 8556
 
 ## 🎯 Future Improvements
 
-1. Add real-time travel data
-2. Integrate with travel APIs
-3. Improve model accuracy
-4. Deploy using Flask / Streamlit
+* 🔄 Add Real-Time Travel Data
+* 🌐 Integrate with Travel APIs
+* 🎯 Improve Model Accuracy
+* 🚀 Deploy using Flask / Streamlit
 
 ##  📌 Conclusion
 
