@@ -66,3 +66,5 @@ The dataset contains the following features:
 ##  📌 Conclusion
 
 This project demonstrates how machine learning can effectively predict travel costs using factors like distance, transport type, number of days, number of people, and hotel rating. The model provides accurate cost estimates, helping users plan trips and manage budgets efficiently, while also showcasing the practical application of ML in real-world travel planning scenarios.
+
+![ml](https://github.com/rushikeshwalode06-cod/Travel-Cost-Prediction/blob/main/Travel_image.png?raw=true)
